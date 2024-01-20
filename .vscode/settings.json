@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "actix",
-        "calcu"
+        "calcu",
+        "chrono",
+        "Datelike"
     ]
 }
